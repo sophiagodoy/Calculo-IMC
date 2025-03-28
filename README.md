@@ -15,7 +15,7 @@ O objetivo principal do projeto é armazenar dados de forma eficiente e segura n
    - No terminal, navegue até o diretório onde deseja armazenar o projeto e execute o seguinte comando:
 
      ```gradle
-     git clone https://github.com/sophiagodoy/calculo-imc.git
+     git@github.com:sophiagodoy/Calculo-IMC.git
      ```
 
 ## 2️⃣ Passo 2: Criar um Projeto no Firebase
