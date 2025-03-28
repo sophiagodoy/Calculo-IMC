@@ -1,8 +1,8 @@
-# 💖 Sobre o Projeto
+# 💖 Cálculo IMC
 
-Este é um **app Android** desenvolvido utilizando o **Firebase** e o **Android Studio**, onde os dados dos usuários são armazenados diretamente no **banco de dados Firestore** do Firebase. Foi a minha primeira experiência integrando o Android com o Firebase e o Firestore, o que me permitiu aprender a conectar o app Android ao banco de dados em tempo real.
+Este é um app Android desenvolvido utilizando Firebase e Android Studio, no qual os dados dos usuários são armazenados diretamente no Firestore do Firebase. Foi a minha primeira experiência integrando um app Android ao Firebase e ao Firestore, o que me permitiu aprender a conectar o aplicativo com o banco de dados em tempo real usando o método tradicional de desenvolvimento de interfaces (Activities, XML Layouts e findViewById).
 
-O objetivo principal do projeto é **armazenar dados** de forma eficiente e segura no Firebase, garantindo que as informações dos usuários sejam salvas remotamente e possam ser acessadas de qualquer lugar.
+O objetivo principal do projeto é armazenar dados de forma eficiente e segura no Firebase, garantindo que as informações dos usuários sejam salvas remotamente e possam ser acessadas a qualquer momento e de qualquer lugar.
 
 ---
 
