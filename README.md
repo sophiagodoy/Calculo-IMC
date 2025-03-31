@@ -4,6 +4,8 @@ Este é um app Android desenvolvido utilizando Firebase e Android Studio, no qua
 
 O objetivo principal do projeto é armazenar dados de forma eficiente e segura no Firebase, garantindo que as informações dos usuários sejam salvas remotamente e possam ser acessadas a qualquer momento e de qualquer lugar.
 
+📌 **É a primeira vez que estou integrando um app Android ao Firebase e ao Firestore**, então este app tem como foco principal o **aprendizado prático**
+
 ---
 
 # 🛠️ Passo a Passo para Rodar o Projeto com Firebase
